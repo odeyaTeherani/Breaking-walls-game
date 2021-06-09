@@ -1,0 +1,44 @@
+/* ID: 211470802
+ID: 208179267 */
+body{
+	background-color:white;
+}
+
+#start_btn{
+  
+  position: absolute; top:600px; right:625px;
+  background-color: blue; 
+  color: white;
+  text-align: left;
+  display: inline-block;
+  font-size: 16px;
+}
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#canvas1 {
+	background:white;
+	display: block;
+	margin: 0 auto;
+}
+
+#minutes{
+  font: 16px Arial;
+  color: #0095DD;
+  position: absolute; top:7px; right:1000px;
+}
+
+#seconds{
+  font: 16px Arial;
+  color: #0095DD;
+  position: absolute; top:7px; right:979px;
+}
+
+#Colon{
+  font: 16px Arial;
+  color: #0095DD;
+  position: absolute; top:7px; right:996px;
+}
